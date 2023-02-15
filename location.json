@@ -1,9 +1,7 @@
 {
-  "fr":{
-    "hello":"Bonjour"
-  },
-  "en":{
-   "hello":"Hello"
+  "hello": {
+     "fr": "Bonjour",
+     "en": "Hello"
   }
 
 }
